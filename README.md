@@ -1,0 +1,2 @@
+# Gait
+Firstly, this paper proposes two gait features based on joint position information, which are static features and dynamic features. At the same time, this paper respectively verifies the relationship between these two gait features and visual angle changes. Secondly, this paper proposes a gait cycle extraction method for dynamic features, and carries out noise removal and other processing. Finally, this paper describes how to fuse the two gait features to get better recognition results.
